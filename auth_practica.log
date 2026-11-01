@@ -1,0 +1,205 @@
+Oct 30 00:20:00 srv-clinica CRON[2010]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 01:25:00 srv-clinica CRON[2014]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 02:01:58 srv-clinica sshd[2788]: Failed password for invalid user ubuntu from 198.51.100.23 port 49822 ssh2
+Oct 30 02:03:21 srv-clinica sshd[2825]: Failed password for invalid user oracle from 198.51.100.23 port 42682 ssh2
+Oct 30 02:04:00 srv-clinica CRON[2049]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 02:04:59 srv-clinica sshd[2854]: Failed password for invalid user user from 198.51.100.23 port 51255 ssh2
+Oct 30 02:06:35 srv-clinica sshd[2887]: Failed password for invalid user admin from 198.51.100.23 port 43868 ssh2
+Oct 30 02:08:28 srv-clinica sshd[2909]: Failed password for invalid user test from 198.51.100.23 port 64809 ssh2
+Oct 30 02:09:47 srv-clinica sshd[2912]: Failed password for invalid user user from 198.51.100.23 port 53818 ssh2
+Oct 30 02:10:56 srv-clinica sshd[2935]: Failed password for invalid user ubuntu from 198.51.100.23 port 51145 ssh2
+Oct 30 02:13:12 srv-clinica sshd[2965]: Failed password for invalid user user from 198.51.100.23 port 59002 ssh2
+Oct 30 02:14:20 srv-clinica sshd[2996]: Failed password for invalid user admin from 198.51.100.23 port 48845 ssh2
+Oct 30 02:15:28 srv-clinica sshd[3016]: Failed password for root from 198.51.100.23 port 63958 ssh2
+Oct 30 02:17:41 srv-clinica sshd[3041]: Failed password for invalid user user from 198.51.100.23 port 49325 ssh2
+Oct 30 02:19:25 srv-clinica sshd[3064]: Failed password for root from 198.51.100.23 port 55128 ssh2
+Oct 30 02:20:46 srv-clinica sshd[3068]: Failed password for invalid user admin from 198.51.100.23 port 56177 ssh2
+Oct 30 02:22:13 srv-clinica sshd[3084]: Failed password for invalid user postgres from 198.51.100.23 port 44238 ssh2
+Oct 30 02:24:03 srv-clinica sshd[3090]: Failed password for invalid user guest from 198.51.100.23 port 56269 ssh2
+Oct 30 02:25:24 srv-clinica sshd[3126]: Failed password for invalid user user from 198.51.100.23 port 53161 ssh2
+Oct 30 02:26:59 srv-clinica sshd[3162]: Failed password for invalid user test from 198.51.100.23 port 54107 ssh2
+Oct 30 02:28:34 srv-clinica sshd[3187]: Failed password for invalid user guest from 198.51.100.23 port 51756 ssh2
+Oct 30 02:30:03 srv-clinica sshd[3199]: Failed password for invalid user test from 198.51.100.23 port 42719 ssh2
+Oct 30 02:31:22 srv-clinica sshd[3214]: Failed password for invalid user oracle from 198.51.100.23 port 61578 ssh2
+Oct 30 02:32:23 srv-clinica sshd[3226]: Failed password for invalid user user from 198.51.100.23 port 59304 ssh2
+Oct 30 02:33:56 srv-clinica sshd[3236]: Failed password for invalid user postgres from 198.51.100.23 port 40134 ssh2
+Oct 30 02:35:49 srv-clinica sshd[3273]: Failed password for invalid user ubuntu from 198.51.100.23 port 59982 ssh2
+Oct 30 02:37:29 srv-clinica sshd[3306]: Failed password for invalid user test from 198.51.100.23 port 62626 ssh2
+Oct 30 02:39:48 srv-clinica sshd[3342]: Failed password for root from 198.51.100.23 port 54963 ssh2
+Oct 30 02:41:38 srv-clinica sshd[3368]: Failed password for invalid user guest from 198.51.100.23 port 53073 ssh2
+Oct 30 02:42:51 srv-clinica sshd[3394]: Failed password for invalid user user from 198.51.100.23 port 60784 ssh2
+Oct 30 02:43:58 srv-clinica sshd[3408]: Failed password for invalid user oracle from 198.51.100.23 port 42206 ssh2
+Oct 30 02:45:54 srv-clinica sshd[3430]: Failed password for invalid user test from 198.51.100.23 port 43602 ssh2
+Oct 30 02:48:10 srv-clinica sshd[3431]: Failed password for root from 198.51.100.23 port 43354 ssh2
+Oct 30 03:06:00 srv-clinica CRON[2073]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 03:14:01 srv-clinica sshd[3471]: Failed password for invalid user admin from 203.0.113.45 port 51914 ssh2
+Oct 30 03:14:01 srv-clinica sshd[3511]: Failed password for invalid user admin from 203.0.113.45 port 46814 ssh2
+Oct 30 03:14:03 srv-clinica sshd[3528]: Failed password for invalid user administrator from 203.0.113.45 port 60788 ssh2
+Oct 30 03:14:04 srv-clinica sshd[3536]: Failed password for invalid user support from 203.0.113.45 port 55536 ssh2
+Oct 30 03:14:04 srv-clinica sshd[3567]: Failed password for invalid user www from 203.0.113.45 port 55269 ssh2
+Oct 30 03:14:06 srv-clinica sshd[3577]: Failed password for backup from 203.0.113.45 port 42814 ssh2
+Oct 30 03:14:06 srv-clinica sshd[3594]: Failed password for invalid user support from 203.0.113.45 port 64259 ssh2
+Oct 30 03:14:08 srv-clinica sshd[3596]: Failed password for invalid user administrator from 203.0.113.45 port 56919 ssh2
+Oct 30 03:14:09 srv-clinica sshd[3631]: Failed password for invalid user support from 203.0.113.45 port 44803 ssh2
+Oct 30 03:14:09 srv-clinica sshd[3637]: Failed password for backup from 203.0.113.45 port 61067 ssh2
+Oct 30 03:14:10 srv-clinica sshd[3660]: Failed password for invalid user support from 203.0.113.45 port 45473 ssh2
+Oct 30 03:14:11 srv-clinica sshd[3675]: Failed password for invalid user support from 203.0.113.45 port 60854 ssh2
+Oct 30 03:14:12 srv-clinica sshd[3690]: Failed password for invalid user test from 203.0.113.45 port 53129 ssh2
+Oct 30 03:14:13 srv-clinica sshd[3692]: Failed password for invalid user www from 203.0.113.45 port 51651 ssh2
+Oct 30 03:14:13 srv-clinica sshd[3709]: Failed password for backup from 203.0.113.45 port 55474 ssh2
+Oct 30 03:14:14 srv-clinica sshd[3732]: Failed password for invalid user support from 203.0.113.45 port 54654 ssh2
+Oct 30 03:14:15 srv-clinica sshd[3739]: Failed password for invalid user admin from 203.0.113.45 port 47224 ssh2
+Oct 30 03:14:16 srv-clinica sshd[3761]: Failed password for invalid user www from 203.0.113.45 port 46445 ssh2
+Oct 30 03:14:17 srv-clinica sshd[3801]: Failed password for invalid user www from 203.0.113.45 port 60449 ssh2
+Oct 30 03:14:17 srv-clinica sshd[3824]: Failed password for invalid user www from 203.0.113.45 port 61396 ssh2
+Oct 30 03:14:17 srv-clinica sshd[3837]: Failed password for invalid user admin from 203.0.113.45 port 52731 ssh2
+Oct 30 03:14:19 srv-clinica sshd[3859]: Failed password for invalid user administrator from 203.0.113.45 port 54218 ssh2
+Oct 30 03:14:19 srv-clinica sshd[3885]: Failed password for invalid user ftp from 203.0.113.45 port 55176 ssh2
+Oct 30 03:14:19 srv-clinica sshd[3894]: Failed password for invalid user administrator from 203.0.113.45 port 45570 ssh2
+Oct 30 03:14:19 srv-clinica sshd[3924]: Failed password for invalid user administrator from 203.0.113.45 port 59359 ssh2
+Oct 30 03:14:20 srv-clinica sshd[3947]: Failed password for invalid user www from 203.0.113.45 port 61537 ssh2
+Oct 30 03:14:21 srv-clinica sshd[3948]: Failed password for invalid user administrator from 203.0.113.45 port 40701 ssh2
+Oct 30 03:14:21 srv-clinica sshd[3961]: Failed password for invalid user administrator from 203.0.113.45 port 54215 ssh2
+Oct 30 03:14:22 srv-clinica sshd[3975]: Failed password for root from 203.0.113.45 port 48252 ssh2
+Oct 30 03:14:23 srv-clinica sshd[3996]: Failed password for invalid user test from 203.0.113.45 port 59216 ssh2
+Oct 30 03:14:24 srv-clinica sshd[4000]: Failed password for invalid user ftp from 203.0.113.45 port 44295 ssh2
+Oct 30 03:14:25 srv-clinica sshd[4038]: Failed password for invalid user www from 203.0.113.45 port 61707 ssh2
+Oct 30 03:14:27 srv-clinica sshd[4048]: Failed password for invalid user administrator from 203.0.113.45 port 57426 ssh2
+Oct 30 03:14:27 srv-clinica sshd[4087]: Failed password for invalid user www from 203.0.113.45 port 46000 ssh2
+Oct 30 03:14:27 srv-clinica sshd[4097]: Failed password for invalid user administrator from 203.0.113.45 port 45647 ssh2
+Oct 30 03:14:29 srv-clinica sshd[4101]: Failed password for invalid user admin from 203.0.113.45 port 58234 ssh2
+Oct 30 03:14:30 srv-clinica sshd[4137]: Failed password for invalid user www from 203.0.113.45 port 43476 ssh2
+Oct 30 03:14:30 srv-clinica sshd[4155]: Failed password for invalid user test from 203.0.113.45 port 46268 ssh2
+Oct 30 03:14:30 srv-clinica sshd[4184]: Failed password for invalid user admin from 203.0.113.45 port 56636 ssh2
+Oct 30 03:14:30 srv-clinica sshd[4205]: Failed password for invalid user admin from 203.0.113.45 port 54524 ssh2
+Oct 30 03:14:31 srv-clinica sshd[4238]: Failed password for backup from 203.0.113.45 port 54822 ssh2
+Oct 30 03:14:33 srv-clinica sshd[4272]: Failed password for invalid user test from 203.0.113.45 port 62911 ssh2
+Oct 30 03:14:34 srv-clinica sshd[4281]: Failed password for invalid user test from 203.0.113.45 port 54664 ssh2
+Oct 30 03:14:36 srv-clinica sshd[4310]: Failed password for invalid user admin from 203.0.113.45 port 52856 ssh2
+Oct 30 03:14:37 srv-clinica sshd[4326]: Failed password for invalid user admin from 203.0.113.45 port 61992 ssh2
+Oct 30 03:14:39 srv-clinica sshd[4346]: Failed password for invalid user admin from 203.0.113.45 port 46969 ssh2
+Oct 30 03:14:39 srv-clinica sshd[4370]: Failed password for invalid user administrator from 203.0.113.45 port 63465 ssh2
+Oct 30 03:14:40 srv-clinica sshd[4400]: Failed password for backup from 203.0.113.45 port 44497 ssh2
+Oct 30 03:14:41 srv-clinica sshd[4432]: Failed password for invalid user admin from 203.0.113.45 port 53050 ssh2
+Oct 30 03:14:42 srv-clinica sshd[4460]: Failed password for invalid user test from 203.0.113.45 port 45290 ssh2
+Oct 30 03:14:44 srv-clinica sshd[4473]: Failed password for invalid user support from 203.0.113.45 port 53804 ssh2
+Oct 30 03:14:45 srv-clinica sshd[4497]: Failed password for invalid user support from 203.0.113.45 port 43021 ssh2
+Oct 30 03:14:45 srv-clinica sshd[4527]: Failed password for invalid user support from 203.0.113.45 port 58155 ssh2
+Oct 30 03:14:47 srv-clinica sshd[4549]: Failed password for root from 203.0.113.45 port 52594 ssh2
+Oct 30 03:14:48 srv-clinica sshd[4564]: Failed password for invalid user admin from 203.0.113.45 port 43697 ssh2
+Oct 30 03:14:48 srv-clinica sshd[4582]: Failed password for invalid user admin from 203.0.113.45 port 48702 ssh2
+Oct 30 03:14:48 srv-clinica sshd[4591]: Failed password for invalid user administrator from 203.0.113.45 port 48861 ssh2
+Oct 30 03:14:50 srv-clinica sshd[4601]: Failed password for backup from 203.0.113.45 port 53302 ssh2
+Oct 30 03:14:52 srv-clinica sshd[4619]: Failed password for invalid user support from 203.0.113.45 port 42931 ssh2
+Oct 30 03:14:52 srv-clinica sshd[4624]: Failed password for invalid user administrator from 203.0.113.45 port 53936 ssh2
+Oct 30 03:14:53 srv-clinica sshd[4630]: Failed password for root from 203.0.113.45 port 60789 ssh2
+Oct 30 03:14:54 srv-clinica sshd[4645]: Failed password for invalid user admin from 203.0.113.45 port 59928 ssh2
+Oct 30 03:14:54 srv-clinica sshd[4675]: Failed password for backup from 203.0.113.45 port 43987 ssh2
+Oct 30 03:14:54 srv-clinica sshd[4702]: Failed password for invalid user support from 203.0.113.45 port 58122 ssh2
+Oct 30 03:14:55 srv-clinica sshd[4736]: Failed password for invalid user administrator from 203.0.113.45 port 41415 ssh2
+Oct 30 03:14:56 srv-clinica sshd[4753]: Failed password for invalid user admin from 203.0.113.45 port 45290 ssh2
+Oct 30 03:14:56 srv-clinica sshd[4773]: Failed password for invalid user administrator from 203.0.113.45 port 46611 ssh2
+Oct 30 03:14:57 srv-clinica sshd[4802]: Failed password for invalid user test from 203.0.113.45 port 49501 ssh2
+Oct 30 03:14:58 srv-clinica sshd[4804]: Failed password for backup from 203.0.113.45 port 51370 ssh2
+Oct 30 03:14:59 srv-clinica sshd[4806]: Failed password for root from 203.0.113.45 port 40502 ssh2
+Oct 30 03:15:00 srv-clinica sshd[4835]: Failed password for invalid user www from 203.0.113.45 port 48050 ssh2
+Oct 30 03:15:00 srv-clinica sshd[4867]: Failed password for invalid user ftp from 203.0.113.45 port 61512 ssh2
+Oct 30 03:15:02 srv-clinica sshd[4881]: Failed password for backup from 203.0.113.45 port 62535 ssh2
+Oct 30 03:15:03 srv-clinica sshd[4890]: Failed password for invalid user support from 203.0.113.45 port 46508 ssh2
+Oct 30 03:15:05 srv-clinica sshd[4899]: Failed password for invalid user support from 203.0.113.45 port 41782 ssh2
+Oct 30 03:15:05 srv-clinica sshd[4916]: Failed password for invalid user admin from 203.0.113.45 port 60494 ssh2
+Oct 30 03:15:07 srv-clinica sshd[4922]: Failed password for invalid user administrator from 203.0.113.45 port 41815 ssh2
+Oct 30 03:15:09 srv-clinica sshd[4938]: Failed password for backup from 203.0.113.45 port 59620 ssh2
+Oct 30 03:15:10 srv-clinica sshd[4950]: Failed password for root from 203.0.113.45 port 55055 ssh2
+Oct 30 03:15:11 srv-clinica sshd[4951]: Failed password for backup from 203.0.113.45 port 54608 ssh2
+Oct 30 03:15:12 srv-clinica sshd[4987]: Failed password for invalid user support from 203.0.113.45 port 50778 ssh2
+Oct 30 03:15:13 srv-clinica sshd[5007]: Failed password for invalid user test from 203.0.113.45 port 41128 ssh2
+Oct 30 03:15:14 srv-clinica sshd[5008]: Failed password for invalid user support from 203.0.113.45 port 45995 ssh2
+Oct 30 03:15:15 srv-clinica sshd[5039]: Failed password for invalid user ftp from 203.0.113.45 port 42748 ssh2
+Oct 30 03:15:16 srv-clinica sshd[5072]: Failed password for invalid user test from 203.0.113.45 port 48132 ssh2
+Oct 30 03:15:16 srv-clinica sshd[5078]: Failed password for invalid user admin from 203.0.113.45 port 48656 ssh2
+Oct 30 03:15:17 srv-clinica sshd[5081]: Failed password for invalid user ftp from 203.0.113.45 port 59228 ssh2
+Oct 30 03:15:19 srv-clinica sshd[5101]: Failed password for root from 203.0.113.45 port 49818 ssh2
+Oct 30 03:15:20 srv-clinica sshd[5135]: Failed password for invalid user admin from 203.0.113.45 port 59188 ssh2
+Oct 30 03:15:21 srv-clinica sshd[5167]: Failed password for invalid user ftp from 203.0.113.45 port 50686 ssh2
+Oct 30 03:15:22 srv-clinica sshd[5207]: Failed password for backup from 203.0.113.45 port 63729 ssh2
+Oct 30 03:15:23 srv-clinica sshd[5240]: Failed password for root from 203.0.113.45 port 63429 ssh2
+Oct 30 03:15:25 srv-clinica sshd[5273]: Failed password for invalid user administrator from 203.0.113.45 port 57162 ssh2
+Oct 30 03:15:25 srv-clinica sshd[5275]: Failed password for invalid user test from 203.0.113.45 port 42788 ssh2
+Oct 30 03:15:25 srv-clinica sshd[5299]: Failed password for invalid user administrator from 203.0.113.45 port 60877 ssh2
+Oct 30 03:15:25 srv-clinica sshd[5335]: Failed password for invalid user ftp from 203.0.113.45 port 54791 ssh2
+Oct 30 03:15:25 srv-clinica sshd[5370]: Failed password for root from 203.0.113.45 port 60520 ssh2
+Oct 30 03:15:26 srv-clinica sshd[5371]: Failed password for invalid user www from 203.0.113.45 port 48643 ssh2
+Oct 30 03:15:28 srv-clinica sshd[5404]: Failed password for invalid user admin from 203.0.113.45 port 64519 ssh2
+Oct 30 03:15:28 srv-clinica sshd[5435]: Failed password for invalid user admin from 203.0.113.45 port 64436 ssh2
+Oct 30 03:15:29 srv-clinica sshd[5451]: Failed password for invalid user admin from 203.0.113.45 port 48701 ssh2
+Oct 30 03:15:30 srv-clinica sshd[5481]: Failed password for invalid user test from 203.0.113.45 port 64242 ssh2
+Oct 30 03:15:32 srv-clinica sshd[5512]: Failed password for invalid user ftp from 203.0.113.45 port 42514 ssh2
+Oct 30 03:15:33 srv-clinica sshd[5525]: Failed password for root from 203.0.113.45 port 60217 ssh2
+Oct 30 03:15:33 srv-clinica sshd[5542]: Failed password for invalid user administrator from 203.0.113.45 port 50871 ssh2
+Oct 30 03:15:34 srv-clinica sshd[5573]: Failed password for invalid user administrator from 203.0.113.45 port 40408 ssh2
+Oct 30 03:15:34 srv-clinica sshd[5580]: Failed password for invalid user www from 203.0.113.45 port 48807 ssh2
+Oct 30 03:15:35 srv-clinica sshd[5614]: Failed password for invalid user www from 203.0.113.45 port 49530 ssh2
+Oct 30 03:15:36 srv-clinica sshd[5644]: Failed password for invalid user www from 203.0.113.45 port 55266 ssh2
+Oct 30 03:15:36 srv-clinica sshd[5650]: Failed password for invalid user test from 203.0.113.45 port 50212 ssh2
+Oct 30 03:15:38 srv-clinica sshd[5680]: Failed password for root from 203.0.113.45 port 49489 ssh2
+Oct 30 03:15:38 srv-clinica sshd[5705]: Failed password for invalid user www from 203.0.113.45 port 48803 ssh2
+Oct 30 03:15:39 srv-clinica sshd[5743]: Failed password for invalid user test from 203.0.113.45 port 42444 ssh2
+Oct 30 03:15:39 srv-clinica sshd[5777]: Failed password for invalid user administrator from 203.0.113.45 port 64493 ssh2
+Oct 30 03:15:40 srv-clinica sshd[5816]: Failed password for invalid user support from 203.0.113.45 port 44345 ssh2
+Oct 30 03:15:41 srv-clinica sshd[5840]: Failed password for invalid user admin from 203.0.113.45 port 63046 ssh2
+Oct 30 03:15:42 srv-clinica sshd[5866]: Failed password for invalid user www from 203.0.113.45 port 55929 ssh2
+Oct 30 03:15:42 srv-clinica sshd[5898]: Failed password for invalid user administrator from 203.0.113.45 port 40117 ssh2
+Oct 30 03:15:44 srv-clinica sshd[5908]: Failed password for invalid user ftp from 203.0.113.45 port 49894 ssh2
+Oct 30 03:15:46 srv-clinica sshd[5929]: Failed password for invalid user support from 203.0.113.45 port 52324 ssh2
+Oct 30 03:15:46 srv-clinica sshd[5950]: Failed password for invalid user support from 203.0.113.45 port 40057 ssh2
+Oct 30 03:15:47 srv-clinica sshd[5963]: Failed password for invalid user ftp from 203.0.113.45 port 43933 ssh2
+Oct 30 03:15:47 srv-clinica sshd[5987]: Failed password for backup from 203.0.113.45 port 48297 ssh2
+Oct 30 03:15:47 srv-clinica sshd[6025]: Failed password for invalid user ftp from 203.0.113.45 port 52784 ssh2
+Oct 30 03:15:47 srv-clinica sshd[6043]: Failed password for invalid user support from 203.0.113.45 port 54026 ssh2
+Oct 30 03:15:47 srv-clinica sshd[6047]: Failed password for backup from 203.0.113.45 port 43332 ssh2
+Oct 30 03:15:48 srv-clinica sshd[6065]: Failed password for invalid user administrator from 203.0.113.45 port 48169 ssh2
+Oct 30 03:15:50 srv-clinica sshd[6089]: Failed password for invalid user support from 203.0.113.45 port 46220 ssh2
+Oct 30 03:15:52 srv-clinica sshd[6115]: Failed password for root from 203.0.113.45 port 64957 ssh2
+Oct 30 03:15:53 srv-clinica sshd[6142]: Failed password for invalid user admin from 203.0.113.45 port 41621 ssh2
+Oct 30 03:15:55 srv-clinica sshd[6161]: Failed password for invalid user administrator from 203.0.113.45 port 61118 ssh2
+Oct 30 03:15:57 srv-clinica sshd[6170]: Failed password for root from 203.0.113.45 port 58025 ssh2
+Oct 30 03:15:58 srv-clinica sshd[6192]: Failed password for invalid user www from 203.0.113.45 port 53594 ssh2
+Oct 30 03:15:59 srv-clinica sshd[6209]: Failed password for backup from 203.0.113.45 port 48380 ssh2
+Oct 30 03:16:01 srv-clinica sshd[6240]: Failed password for invalid user test from 203.0.113.45 port 49857 ssh2
+Oct 30 03:16:03 srv-clinica sshd[6251]: Failed password for invalid user admin from 203.0.113.45 port 45483 ssh2
+Oct 30 03:16:03 srv-clinica sshd[6283]: Failed password for invalid user test from 203.0.113.45 port 56403 ssh2
+Oct 30 03:16:04 srv-clinica sshd[6312]: Failed password for invalid user www from 203.0.113.45 port 50906 ssh2
+Oct 30 03:16:06 srv-clinica sshd[6325]: Failed password for invalid user administrator from 203.0.113.45 port 57949 ssh2
+Oct 30 03:16:07 srv-clinica sshd[6347]: Failed password for invalid user admin from 203.0.113.45 port 45724 ssh2
+Oct 30 03:16:09 srv-clinica sshd[6383]: Accepted password for backup from 203.0.113.45 port 51122 ssh2
+Oct 30 03:16:09 srv-clinica sshd[6389]: pam_unix(sshd:session): session opened for user backup(uid=1003) by (uid=0)
+Oct 30 03:16:49 srv-clinica sudo[6410]: backup : TTY=pts/1 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Oct 30 04:37:00 srv-clinica CRON[2077]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 05:58:00 srv-clinica CRON[2110]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 06:13:00 srv-clinica CRON[2113]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 07:05:00 srv-clinica CRON[2141]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 08:06:00 srv-clinica sshd[2577]: Accepted password for heber from 192.168.1.50 port 59057 ssh2
+Oct 30 08:26:00 srv-clinica CRON[2146]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 09:01:00 srv-clinica sshd[2678]: Failed password for ana from 192.168.1.61 port 46748 ssh2
+Oct 30 09:01:08 srv-clinica sshd[2713]: Failed password for ana from 192.168.1.61 port 62295 ssh2
+Oct 30 09:15:00 srv-clinica CRON[2152]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 09:40:00 srv-clinica sshd[2601]: Accepted password for ana from 192.168.1.61 port 46156 ssh2
+Oct 30 10:35:00 srv-clinica CRON[2180]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 11:03:00 srv-clinica CRON[2217]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 12:07:00 srv-clinica CRON[2232]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 13:06:00 srv-clinica sshd[2606]: Accepted password for heber from 192.168.1.50 port 57948 ssh2
+Oct 30 13:40:00 srv-clinica CRON[2270]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 14:03:00 srv-clinica CRON[2307]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 15:37:00 srv-clinica CRON[2333]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 16:03:00 srv-clinica CRON[2348]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 17:01:00 srv-clinica sshd[2734]: Failed password for luis from 192.168.1.72 port 54011 ssh2
+Oct 30 17:01:08 srv-clinica sshd[2772]: Failed password for luis from 192.168.1.72 port 55256 ssh2
+Oct 30 17:02:00 srv-clinica CRON[2384]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 17:36:00 srv-clinica sshd[2646]: Accepted password for luis from 192.168.1.72 port 41953 ssh2
+Oct 30 18:54:00 srv-clinica CRON[2393]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 19:18:00 srv-clinica CRON[2420]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 20:09:00 srv-clinica CRON[2455]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 21:07:00 srv-clinica CRON[2492]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 22:19:00 srv-clinica CRON[2528]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+Oct 30 23:52:00 srv-clinica CRON[2540]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
